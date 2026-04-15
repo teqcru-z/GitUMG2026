@@ -15,6 +15,7 @@ public class Githug_umg {
      */
     public static void main(String[] args) {
         System.out.println("Hola w");
+        Empleado emp = new Empleado();
     }
     
 }
